@@ -5,11 +5,11 @@ from xml.dom import minidom
 
 # Verified lore-heavy creators
 FEEDS = [
-https://www.youtube.com/feeds/videos.xml?channel_id=UCQZFAQPTQtrFrTu6Hb4vwsw
-https://www.youtube.com/feeds/videos.xml?channel_id=UCc5nW05ZkYg_B9H7Yk9vP3Q
-https://www.youtube.com/feeds/videos.xml?channel_id=UCd7o8K6yq7V2bZp7FvH8s7w
-https://www.youtube.com/feeds/videos.xml?channel_id=UCJr7kCqV0E6uJ9QpY9sJp6Q
-https://www.youtube.com/feeds/videos.xml?channel_id=UCQ0t0K0x7y6yD6Z7X8v9w0Q
+     "https://www.youtube.com/feeds/videos.xml?channel_id=UCQZFAQPTQtrFrTu6Hb4vwsw",
+     "https://www.youtube.com/feeds/videos.xml?channel_id=UCc5nW05ZkYg_B9H7Yk9vP3Q",
+     "https://www.youtube.com/feeds/videos.xml?channel_id=UCd7o8K6yq7V2bZp7FvH8s7w",
+     "https://www.youtube.com/feeds/videos.xml?channel_id=UCJr7kCqV0E6uJ9QpY9sJp6Q",
+     "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ0t0K0x7y6yD6Z7X8v9w0Q",
 ]
 
 # Lore filter keywords
